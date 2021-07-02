@@ -26,6 +26,14 @@ books = [{
         "bookDescription": "The overwhelming majority of a software system's lifespan is spent in use, not in design or implementation. So, why does conventional wisdom insist that software engineers focus primarily on the design and development of large-scale computing systems?",
         "bookAuthors" : "Betsy Beyer, Chris Jones, Jennifer Petoff"
     },
+
+
+    { 
+        "bookTitle": "Bash Quick Start Guide" ,
+        "bookImage": "https://itbook.store/img/books/9781789538830.png",
+        "bookDescription": "This book teaches effective shell script programming with Bash, and is ideal for people who may have used its command line but never really learned it in depth. This book will show you how even simple programming constructs in the shell can speed up and automate any kind of daily command-line work.",
+        "bookAuthors" : "Tom Ryder"
+    }
 ]
 
 # Schema For the Book Request JSON
